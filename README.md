@@ -2,11 +2,15 @@
 
 Web Development 
 
-Week 1 Task - Simple Calculator using HTML , CSS and JS
+**Week 1 Task - Simple Calculator using HTML , CSS and JS**
+
+
 ![Screenshot (116)](https://github.com/Razlina11/SystemTron/assets/132158006/a914f433-99ee-448f-a397-c24ffda1ac60)
 
 
-Week 2 Task - Netflix Web Clone using HTML, CSS and JS
+**Week 2 Task - Netflix Web Clone using HTML, CSS and JS**
+
+
 ![Screenshot (112)](https://github.com/Razlina11/SystemTron/assets/132158006/51062a80-f7a2-4104-8cf7-c19e150f3f80)
 
 ![Screenshot (113)](https://github.com/Razlina11/SystemTron/assets/132158006/75cd8d04-7a6c-4bb1-801d-0390862bedaf)
