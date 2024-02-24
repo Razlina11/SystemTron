@@ -1,0 +1,80 @@
+body {
+    font-family:cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(250, 252, 252);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.input-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+input[type='text'] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #211b1b;
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ee623b;
+    color: #fff;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.todo-list {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.completed {
+    background-color: #f0f0f0;
+}
+
+.completed .completed-text {
+    text-decoration: line-through;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+li button {
+    margin-right: 10px;
+}
+.footer{
+    text-align: center;
+}
